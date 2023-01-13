@@ -1,0 +1,11 @@
+# How to Create git and push complete process write here.
+1.git init
+2.git status
+3.git add . (you can also add single folder here, simple put the name of this folder and you want to add all files so you write git add .)
+4.git commit -m "here write commit message "
+5.  (2,3,4,5 this four commant will said for your project localy )
+
+---------------------------------------------------------------------**---------------------------------------------------------------------------------------------------
+6.* If have want to upload your projects on github than first create repo on github than.
+7. add origin statement and than
+8. git push -u origin master.
